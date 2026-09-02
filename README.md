@@ -11,7 +11,7 @@ Endt multimediedesign uddannelse hos Zealand i Slagelse anno 2023.
 **Type:** Fullstack eksamensprojekt  
 **Fokus:** Systemdesign, projektstruktur, forretningslogik  
 
-**Kort beskrivelse:**  
+**Beskrivelse:**  
 Aktuelt eksamensprojekt med fokus på kalkulation, strukturering og systemmæssig sammenhæng.
 Baseret på virksomhedscase fra [Alpha Solutions](https://www.alpha-solutions.com/da)
 
@@ -23,7 +23,7 @@ Baseret på virksomhedscase fra [Alpha Solutions](https://www.alpha-solutions.co
 **Type:** Fullstack CRUD-applikation  
 **Fokus:** Dataflow, brugerinteraktion, struktur  
 
-**Kort beskrivelse:**  
+**Beskrivelse:**  
 En webapplikation til håndtering af ønskelister med fokus på datahåndtering og brugerflade.
 Bearbejdet mhb. på ønske-oplevelser fremfor materielle ønsker.
 
@@ -34,7 +34,7 @@ Bearbejdet mhb. på ønske-oplevelser fremfor materielle ønsker.
 **Type:** Fullstack gruppeprojekt  
 **Fokus:** Agile development, produktudvikling, systemlogik
 
-**Kort beskrivelse:**  
+**Beskrivelse:**  
 Et mindre fullstack projekt med fokus på at opbygge en CRUD web applikation fra bunden.
 Turistguide app drejet til "Matador" koncept med fokus i København-området.
 
@@ -106,41 +106,3 @@ Turistguide app drejet til "Matador" koncept med fokus i København-området.
 ## Kontakt
 > Email: julie@sundsdal.dk 
 
-<!--
-**jsdsdal/jsdsdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-#### Backend:
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-- ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- ![JUnit5](https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a)
-- ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-#### Frontend:
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-#### Værktøjer:
-- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-- ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
