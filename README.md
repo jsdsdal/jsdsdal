@@ -5,7 +5,7 @@ Endt multimediedesign uddannelse hos Zealand i Slagelse anno 2023.
 
 
 ## Projekter
-### Projekt Kalkulation – Eksamensprojekt (igangværende)
+### Projekt Kalkulation – Eksamensprojekt
 🔗 https://github.com/ProjektKalkulation-Gruppe-6/ProjektKalkulation
 
 **Type:** Fullstack eksamensprojekt  
