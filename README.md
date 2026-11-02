@@ -1,6 +1,5 @@
 ## Om
-Datamatikerstuderende med fokus på digital produktudvikling, systemdesign og UX/UI. 
-
+Datamatikerstuderende fra årgangen i efteråret 2025, pt. i 3. semester
 Endt multimediedesign uddannelse hos Zealand i Slagelse anno 2023.
 
 
