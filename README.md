@@ -1,5 +1,6 @@
 ## Om
-Datamatikerstuderende fra årgangen i efteråret 2025, pt. i 3. semester
+Datamatikerstuderende fra årgangen i efteråret 2025, pt. i 3. semester.
+
 Endt multimediedesign uddannelse hos Zealand i Slagelse anno 2023.
 
 
